@@ -4,3 +4,4 @@ Les principaux workflows Git :
 
 - Git flow (déprécié)
 - Github flow
+- Gitlab flow
