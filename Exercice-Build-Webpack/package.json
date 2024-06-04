@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "serve:dev": "webpack serve --mode development",
+    "serve:prod": "serve dist",
+    "build": "webpack --mode production",
+    "watch": "webpack --watch --mode production"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "serve": "^14.2.3",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  }
+}

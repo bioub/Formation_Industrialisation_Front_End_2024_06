@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "serve:dev": "vite",
+    "serve:prod": "vite preview",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.2.12"
+  }
+}
