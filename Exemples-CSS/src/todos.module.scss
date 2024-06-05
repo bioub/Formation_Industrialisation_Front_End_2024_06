@@ -1,0 +1,18 @@
+$color: lightblue;
+
+// .selected input {
+//   background-color: $color;
+// }
+
+// .selected button {
+//   background-color: $color;
+// }
+
+.selected {
+  input {
+    background-color: $color;
+  }
+  button {
+    background-color: $color;
+  }
+}
