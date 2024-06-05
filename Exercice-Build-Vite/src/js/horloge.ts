@@ -1,11 +1,5 @@
 export class Horloge {
-  /**
-   * @constructor
-   * @param {HTMLElement} container
-   */
-  constructor(container) {
-    this._container = container;
-  }
+  constructor(private _container: HTMLElement) {}
 
   _render() {
     const now = new Date();
